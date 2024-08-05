@@ -50,3 +50,4 @@ if (typeof window != "undefined") {
 export { guessNum }
 console.log("guess(num) to guess the number in console.")
 
+// This is the functionality
